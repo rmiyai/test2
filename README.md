@@ -1,4 +1,3 @@
 # test
 
 ## hoge
-## fuga
